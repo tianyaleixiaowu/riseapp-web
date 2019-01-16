@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d3675"],{"5d2b":function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},c=[],u={name:"school"},a=u,i=t("25c1"),r=Object(i["a"])(a,o,c,!1,null,"3b879aa1",null);r.options.__file="index.vue";n["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-2d0d3675.89543995.js.map
